@@ -60,7 +60,12 @@ Structure the web page and add content using these directions:
    4. Create a footer section to include:
       - A paragraph that displays: Copyright by {YourName} &copy; {CurrentYear}
       - Add an appropriate text-level semantic tag to the copyright information.
-   
+
+***Have you saved and synced your work lately? Now would be a good time to do so!***
+
+***
+<br>
+<br>
 
 ## Example Project
 ![Screenshot of social_media.html without CSS](https://raw.githubusercontent.com/rsc-cis133DA-in-v12/CourseResources/main/L6-example1.png)
