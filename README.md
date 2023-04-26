@@ -20,8 +20,13 @@ You will need to do some research to find content for this assignment. Use what 
 
 <br>
 
+***
+**IMPORTANT: Be sure to Save and Sync your work to GitHub regularly, applying appropriate Commit comments as you go.**
+***
+
 ## Create a Web Page
 
+### Part 1:
 Create a new HTML file in your Lesson 6 Repository. In VS Code, you can select **FILE>NEW**, or you can click the **New File** button next to the Respository name in the Explorer Pane.
    1. **Save** the file as `social_media.html`.
    2. Include the following on the new page:
@@ -33,27 +38,27 @@ Create a new HTML file in your Lesson 6 Repository. In VS Code, you can select *
         - Add an appropriate description for the web page.
         - Add at least five (5) keywords that appropriately define the page content.
 
-Structure and add content to the web page using these directions:
+### Part 2:
+Structure the web page and add content using these directions:
 
    1. Create a header element with the following elements within the section:
-      - Add a first-level heading with the title: Social Media
-   2. Create a navigation menu using the NAV element. There should be 3 menu items that use Absolute Links to your Lesson 3, 4, and 5 repositories on GitHub. To obtain the links to these files, navigate to the GitHub organization site for our class: [CIS133DA](https://github.com/rsc-cis133DA-in-v12). Then locate the repository and file and right-click the file name and select `Copy Link`.
+      - Add a first-level heading with the title: `Social Media`.
+   2. Create a navigation menu using the NAV element. There should be 3 menu items that use Absolute Links linking to your Lesson 3, 4, and 5 repositories on GitHub. To obtain the links to these files, navigate to the GitHub organization site for our class: [CIS133DA](https://github.com/rsc-cis133DA-in-v12). Then locate the repository and file, right-click the file name, and then select `Copy Link`.
       - **Template** which should link to template.html in your Lesson 3 Repository.
       - **Poetry** which should link to poetry.html in your Lesson 4 Repository.
       - **Inline CSS** which should link to inline_css.html in your Lesson 5 Repository.
-   3. Create a main section and include the following:
+      - **Note:** At this point, don't worry about the formatting of your navigation menu. We will work on that in future lessons. You may use non-breaking spaces between each menu item to space them out if desired, but no other formatting is required.
+   3. Create a main section below the navigation menu and include the following:
       - Add a paragraph and write a brief introduction to the concept of social media to explain what it is to an individual who is new to computers.
-      - Add a second-level heading that reads: Social Media Comparison
-      - Add a list using the list type you find most appropriate to complete the following:
-         - List the name of the three social media websites you researched during the project prep.
-         - Link the URL to each social media website using the corresponding name as the display text.
-         - Provide a description of each platform and it's main usage(/s).
+      - Add a second-level heading that reads: `Social Media Comparison`.
+      - Add an unordered list that includes the following:
+         - The name of the three social media websites you researched during the project prep. Each name should link to its respective social media website.
+         - Provide a description of each platform and its main usage(/s).
          - Add an image of the site's logo. Change the size of each image to display the same width but will adjust height automatically.
-         - Add a caption for the image that displays: `Source: ImageName.FileName`. Link the source of the image using the image name and file name as the display text. Use an appropriate text-level semantic tag for the caption.
+         - Add a caption for each image that displays: `Source: ImageName.FileName`. Link the source of the image using the image name and file name as the display text. Use an appropriate text-level semantic tag for the caption.
          > **TIP:** See the example image below.
-      - Add an HTML comment before the list that identifies the type of list you used and why you chose it instead of the other list types.
    4. Create a footer section to include:
-      - A paragraph that displays: Copyright by {YourName} @copy; {CurrentYear}
+      - A paragraph that displays: Copyright by {YourName} &copy; {CurrentYear}
       - Add an appropriate text-level semantic tag to the copyright information.
    
 
