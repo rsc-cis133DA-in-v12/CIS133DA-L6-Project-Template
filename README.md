@@ -9,45 +9,44 @@ A client has reviewed your portfolio so far and you have been hired to create a 
 3. If there are files and folders present other than this `readme.md` file, take some time to familiarize yourself with the files within the repo so you know where they are located. This will help you when asked to use them within the project directions.
    > **TIP:** Before beginning any work on the project, read through all the steps to understand what you will be doing.
 
-You will need to do search to find content for this assignment. Use what you learned in Lesson 2 to conduct your search, and remember to find and record the source of where you located your images or text.
+<br>
+You will need to do some research to find content for this assignment. Use what you learned in Lesson 2 to conduct your search, and remember to find and record the source of where you located your images or text.
 
 1. Find and record the name and URL of three (3) different social media websites.
-2. Be sure to include a note of the URL where you got the images.
-   > **TIP:** Pay attention to the copyright assigned to your images - refer to [Using Images Legally](http://libguides.riosalado.edu/c.php?g=181380&p=1438887) for guidance. [Wikimedia Commons](https://commons.wikimedia.org/) is a good resource with many images that are copyright free, or with an open license. 
+2. Find and save the logo for each social media site you find. 
+3. Find and save an image you can use as the background for the web page.
 
-3. Find and save the logo for each social media site you find.
-4. Find and save an image you can use as the background for the web page.
-
-   > **TIP:** Use best practices for saving images and save the images to a subfolder named "images" within your Lesson 6 course folder.
+   > **TIP:** Pay attention to the copyright assigned to your images - refer to [Using Images Legally](http://libguides.riosalado.edu/c.php?g=181380&p=1438887) for guidance. [Wikimedia Commons](https://commons.wikimedia.org/) is a good resource with many images that are copyright free, or with an open license. Use best practices for saving images and save the images to a subfolder named "images" within your Lesson 6 Repository folder. (Reminder: the folder for the repository can be found on your c: drive under your User directory in a folder titled **github-classroom**.)
 
 <br>
 
 ## Create a Web Page
 
-1. Create a basic web page by including the following:
+Create a new HTML file in your Lesson 6 Repository. In VS Code, you can select **FILE>NEW**, or you can click the **New File** button next to the Respository name in the Explorer Pane.
+   1. **Save** the file as `social_media.html`.
+   2. Include the following on the new page:
+      - Define the appropriate DTD for an HTML5 web page.
+      - Add all four main elements to define the page.
+      - Create a page title with the text: Social Media Demo
+      - Create metadata elements based upon the following information:
+        - Identify the author of the web page and use your own first and last name as the author.
+        - Add an appropriate description for the web page.
+        - Add at least five (5) keywords that appropriately define the page content.
 
-   1. Define the appropriate DTD for an HTML5 web page.
-   2. Add all four main elements to define the page.
-   3. Create a page title with the text: Social Media Demo
-   4. Create metadata elements based upon the following information:
-      - Identify the author of the web page and use your own first and last name as the author.
-      - Add an appropriate description for the web page.
-      - Add at least five (5) keywords that appropriately define the page content.
-
-2. Structure and add content to the web page using these directions:
+Structure and add content to the web page using these directions:
 
    1. Create a header element with the following elements within the section:
       - Add a first-level heading with the title: Social Media
-   2. Create a navigation menu to:
-      - Add relative links to each page in your portfolio, Lesson 3, 4, and 5 assignments. There should be a total of three links (index.html, poetry.html, and inline_css.html).
-        > **TIP:** Remember you are linking to a file in another subfolder when in a subfolder. See explanation under the Links section of your online lesson.
-      - Add the follow display text for each link for each corresponding link: Home, Poetry, and Inline CSS
+   2. Create a navigation menu using the NAV element. There should be 3 menu items that use Absolute Links to your Lesson 3, 4, and 5 repositories on GitHub. To obtain the links to these files, navigate to the GitHub organization site for our class: [CIS133DA](https://github.com/rsc-cis133DA-in-v12). Then locate the repository and file and right-click the file name and select `Copy Link`.
+      - **Template** which should link to template.html in your Lesson 3 Repository.
+      - **Poetry** which should link to poetry.html in your Lesson 4 Repository.
+      - **Inline CSS** which should link to inline_css.html in your Lesson 5 Repository.
    3. Create a main section and include the following:
       - Add a paragraph and write a brief introduction to the concept of social media to explain what it is to an individual who is new to computers.
       - Add a second-level heading that reads: Social Media Comparison
       - Add a list using the list type you find most appropriate to complete the following:
          - List the name of the three social media websites you researched during the project prep.
-         - Link the URL to each website using the corresponding name as the display text.
+         - Link the URL to each social media website using the corresponding name as the display text.
          - Provide a description of each platform and it's main usage(/s).
          - Add an image of the site's logo. Change the size of each image to display the same width but will adjust height automatically.
          - Add a caption for the image that displays: `Source: ImageName.FileName`. Link the source of the image using the image name and file name as the display text. Use an appropriate text-level semantic tag for the caption.
