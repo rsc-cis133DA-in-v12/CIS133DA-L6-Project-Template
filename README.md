@@ -51,9 +51,9 @@ Structure the web page and add content using these directions:
    3. Create a main section below the navigation menu and include the following:
       - Add a paragraph and write a brief introduction to the concept of social media to explain what it is to an individual who is new to computers.
       - Add a second-level heading that reads: `Social Media Comparison`.
-      - Add an unordered list that includes the following:
-         - The name of the three social media websites you researched during the project prep. Each name should link to its respective social media website.
-         - Provide a description of each platform and its main usage(/s).
+      - Add an description list that includes the following:
+         - The name of the three social media websites you researched during the project prep. Each name should link to its respective social media website. Be sure to use the appropriate tag for these **terms** within your Description List.
+         - Provide a description of each platform and its main usage(/s). Be sure to use the appropriate tags for these **definitions** within your Description List.
          - Add an image of the site's logo. Change the size of each image to display the same width but will adjust height automatically.
          - Add a caption for each image that displays: `Source: ImageName.FileName`. Link the source of the image using the image name and file name as the display text. Use an appropriate text-level semantic tag for the caption.
          > **TIP:** See the example image below.
@@ -78,8 +78,8 @@ Structure the web page and add content using these directions:
    > **TIP:** Use best practices when applying background images in the case your image cannot display on the page.
 2. Adjust the body text color so that the text on the page is readable.
 3. Apply a background color to the header and footer elements.
-   > **TIP:** Change the color of each links within the navigation bar to make them more visible, if necessary.
-4. Center align the text within the header and footer elements in the least amount of styles possible.
+   > **TIP:** Change the color of the links within the navigation bar to make them more visible, if necessary.
+4. Center align the text within the header and footer elements using the least amount of styles possible.
 5. Apply a white background color to the main element.
    > **TIP:** When applying color, don't forget you can use [Rio Salado College's Color Tool](https://www.riolearn.org/content/_resources/interactives/colortool/dist/index.html). You may use the From Image tab within the Color Selection tool to choose colors from your background image to provide a uniform and professional look to your web page.
 6. Increase the font size and weight of the names of each social media website.
