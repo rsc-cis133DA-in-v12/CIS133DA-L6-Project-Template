@@ -51,7 +51,7 @@ Structure the web page and add content using these directions:
    3. Create a main section below the navigation menu and include the following:
       - Add a paragraph and write a brief introduction to the concept of social media to explain what it is to an individual who is new to computers.
       - Add a second-level heading that reads: `Social Media Comparison`.
-      - Add an description list that includes the following:
+      - Add a description list that includes the following:
          - The name of the three social media websites you researched during the project prep. Each name should link to its respective social media website. Be sure to use the appropriate tag for these **terms** within your Description List.
          - Provide a description of each platform and its main usage(/s). Be sure to use the appropriate tags for these **definitions** within your Description List.
          - Add an image of the site's logo. Change the size of each image to display the same width but will adjust height automatically.
