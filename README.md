@@ -30,6 +30,7 @@ You will need to do some research to find content for this assignment. Use what 
 Create a new HTML file in your Lesson 6 Repository. In VS Code, you can select **FILE>NEW**, or you can click the **New File** button next to the Respository name in the Explorer Pane.
    1. **Save** the file as `social_media.html`.
    2. Include the following on the new page:
+      - Add an appropriate HTML comment with your name, course, and project info.
       - Define the appropriate DTD for an HTML5 web page.
       - Add all four main elements to define the page.
       - Create a page title with the text: Social Media Demo
@@ -71,6 +72,8 @@ Structure the web page and add content using these directions:
 ![Screenshot of social_media.html without CSS](https://raw.githubusercontent.com/rsc-cis133DA-in-v12/CourseResources/main/L6-example1.png)
 
 ## Apply CSS
+
+NOTE: ALL CSS must be created INLINE within your HTML.
 
 1. Add the background image you found during project prep to the body of the web page.
    1. Apply styling so the image does not repeat and is centered on the page.
