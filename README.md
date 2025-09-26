@@ -80,12 +80,12 @@ NOTE: ALL CSS must be created INLINE within your HTML.
    2. If necessary, style the background image so it covers the entire web page.
    > **TIP:** Use best practices when applying background images in the case your image cannot display on the page.
 2. Apply a background color to the header and footer elements. **TIP:** Change the color of the links within the navigation bar to make them more visible, if necessary.
+> **TIP:** When applying color, don't forget you can use [Rio Salado College's Color Tool](https://www.riolearn.org/content/_resources/interactives/colortool/dist/index.html). You may use the From Image tab within the Color Selection tool to choose colors from your background image to provide a uniform and professional look to your web page.
 3. Adjust the header text color so that the text in the header is readable.
 4. Apply a background color to the header and footer elements.
    > **TIP:** Change the color of the links within the navigation bar to make them more visible, if necessary.
 5. Center align the text within the header and footer elements using the least amount of styles possible.
 6. Apply a white background color to the main element.
-   > **TIP:** When applying color, don't forget you can use [Rio Salado College's Color Tool](https://www.riolearn.org/content/_resources/interactives/colortool/dist/index.html). You may use the From Image tab within the Color Selection tool to choose colors from your background image to provide a uniform and professional look to your web page.
 7. Increase the font size and weight of the names of each social media website.
 
 ## Example Project
